@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "name": "homepage"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "homepage": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.content"
+    }
+  }
+}

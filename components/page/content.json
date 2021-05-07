@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_c_contents",
+  "info": {
+    "name": "content",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
